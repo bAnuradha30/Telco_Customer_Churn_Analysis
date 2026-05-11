@@ -31,7 +31,7 @@ Customer churn is a critical problem in the telecom industry as losing customers
 ---
 
 ### Repository Files
-* `Raw_Telco-Customer-Churn.csv`: The original raw dataset.
+* `Raw_Telco_Customer_Churn.csv`: The original raw dataset.
 * `Cleaned_Telco_Customer_Churn.csv`: The dataset after cleaning and preprocessing.
 * `Telco_Customer_Churn_Analysis.pdf`: The full technical project report.
 * `Telco_Churn_Dashboard.pbix`: The interactive Power BI dashboard file.
